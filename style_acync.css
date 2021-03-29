@@ -1,0 +1,58 @@
+/* font-family: "MuseoSansRegular"; */
+@font-face {
+    font-family: "MuseoSansRegular";
+    src: url("");
+    src: url("") format("embedded-opentype"), url("") format("woff"), url("") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+/* font-family: "MuseoSansBold"; */
+@font-face {
+    font-family: "MuseoSansBold";
+    src: url("");
+    src: url("") format("embedded-opentype"), url("") format("woff"), url("") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+/* font-family: "MuseoSansLight"; */
+@font-face {
+    font-family: "MuseoSansLight";
+    src: url("");
+    src: url("") format("embedded-opentype"), url("") format("woff"), url("") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+/* font-family: "MuseoSansLight"; */
+@font-face {
+    font-family: "MuseoSansBlack";
+    src: url("");
+    src: url("") format("embedded-opentype"), url("") format("woff"), url("") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "OpenSansCondensedLight";
+    src: url("");
+    src: url("") format("embedded-opentype"), url("") format("woff"), url("") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "a_futurarounddemi";
+    src: url("a_futurarounddemi.ttf");
+    font-display: swap;
+}
+
+.elementor p, .elementor p *{
+    color: #454545;
+}
